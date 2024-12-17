@@ -1,5 +1,6 @@
 # syntra_numpy_opdracht
-Annelies, Dennis, Bert
+Annelies, Denis, Bert
+17 dec 2024
 
 ## repo wijzigingen inladen
 git pull --rebase
